@@ -24,6 +24,14 @@
     justify-content: center;
     font-size: 0.8rem;
 }
+.navbar-menu .navbar-item.navbar-item-center {
+    flex-grow: 1;
+    justify-content: center;
+    font-size: 0.8rem;
+    position: absolute;
+    margin-top: 6px;
+}
+
 .navbar-menu .navbar-item .control {
     width: 50%;
 }
