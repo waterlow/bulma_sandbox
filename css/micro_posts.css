@@ -32,9 +32,6 @@
     margin-top: 6px;
 }
 
-.navbar-menu .navbar-item .control {
-    width: 50%;
-}
 .body-columns {
     margin-top: 10vh;
 }
@@ -62,6 +59,11 @@
 .footer {
     margin-top: 10vh;
     padding: 2rem 1.5rem;
+}
+
+.navbar-item img {
+    max-height: 2rem;
+    border-radius: 50%;
 }
 
 /* @media screen and (max-width: 786px){
