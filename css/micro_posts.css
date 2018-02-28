@@ -20,14 +20,9 @@
     justify-content: center;
 }
 .navbar-menu .navbar-item {
-    flex-grow: 1;
-    justify-content: center;
     font-size: 0.8rem;
 }
 .navbar-menu .navbar-item.navbar-item-center {
-    flex-grow: 1;
-    justify-content: center;
-    font-size: 0.8rem;
     position: absolute;
     margin-top: 6px;
 }
