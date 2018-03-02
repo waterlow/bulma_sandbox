@@ -27,9 +27,6 @@
     margin-top: 6px;
 }
 
-.body-columns {
-    margin-top: 10vh;
-}
 .card {
     margin-top: 5rem;
 }
@@ -59,6 +56,14 @@
 .navbar-item img {
     max-height: 2rem;
     border-radius: 50%;
+}
+
+.columns.profile-card-stats {
+  margin-top: 1vh;
+}
+
+.column.profile-card-stat {
+  font-size: 0.8rem;
 }
 
 /* @media screen and (max-width: 786px){
