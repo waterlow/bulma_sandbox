@@ -27,9 +27,14 @@
     margin-top: 6px;
 }
 
-.card {
+.column.is-half.micto-posts {
     margin-top: 5rem;
 }
+
+.column.profile-card {
+    margin-top: 5rem;
+}
+
 .card .header {
     padding: 5px 10px;
 }
